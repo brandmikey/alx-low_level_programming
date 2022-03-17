@@ -1,7 +1,6 @@
 #include <stdio.h>
 /**
  * main - prints a phrase
- *
  * Return: returns 0 at the end of the program
  *
  *
