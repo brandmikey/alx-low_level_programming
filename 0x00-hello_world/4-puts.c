@@ -1,8 +1,8 @@
-#include <stdio.h>
+#include "main.h"
 /**
- * main - entry point
+ * main - prints a phrase
  *
- * return : returns 0 after printing the phrase
+ * Return: returns 0 at the end of the program
  *
  *
  */
