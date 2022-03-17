@@ -1,4 +1,6 @@
-/* This code is to print a sentence */
+/**
+  * This code is to print a sentence
+*/
 
 #include <stdio.h>
 
