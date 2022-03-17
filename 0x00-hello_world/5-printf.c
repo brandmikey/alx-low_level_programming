@@ -8,6 +8,6 @@
 int main(void)
 {
 printf("with proper grammar, but the outcome is a piece of art,\n");
-/* return - returns 0 after phrase is pronted */
+/* return: it returns (0) after phrase is pronted */
 return (0);
 }
