@@ -2,8 +2,7 @@
 #include <stdio.h>
 /**
 * main - a function that uses printf to print a sentence
-*
-* return : returns 0 after phrase is pronted
+* return - returns 0 after phrase is pronted
 */
 
 int main(void)
