@@ -1,6 +1,6 @@
 #include <stdio.h>
 /*
- * main - prints a phrase
+ * main - entry point
  * return : returns 0 after printing the phrase
  */
 int main(void)
