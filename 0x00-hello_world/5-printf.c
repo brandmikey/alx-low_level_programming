@@ -1,5 +1,7 @@
+/* This code is to print a sentence */
+
 #include <stdio.h>
-/*This code is to print a sentence*/
+
 /** 
   * main : print out phrase
   * Return : returns 0 after phrase is pronted
