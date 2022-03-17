@@ -1,4 +1,4 @@
-/* This code is to print a sentence */
+/* This code is to use the main function to print a sentence */
 #include <stdio.h>
 /* main - a function that prints a sentence */
 int main(void)
