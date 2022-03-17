@@ -1,4 +1,4 @@
-#include <studio.h>
+#include <stdio.h>
 /**
   * main : print out phrase
   * Return : returns 0 after phrase is pronted
