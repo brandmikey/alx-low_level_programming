@@ -1,4 +1,4 @@
-#include <stdio.h>
+#inclue <stdio.h>
 /*
  * main - entry point
  * return : returns 0 after printing the phrase
