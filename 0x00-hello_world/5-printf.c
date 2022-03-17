@@ -3,7 +3,7 @@
 * main - a function that uses printf to print a sentence
 * return : returns 0 after phrase is pronted
 */
-#include <main.h>
+#include <stdio.h>
 
 int main(void)
 {
