@@ -1,5 +1,5 @@
 /* This code is to use the main function to print a sentence */
-#include <main.h>
+#include <stdio.h>
 
 /**
 * main - a function that uses printf to print a sentence
