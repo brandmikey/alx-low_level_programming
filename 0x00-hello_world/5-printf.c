@@ -1,14 +1,15 @@
-/* This code is to use the main function to print a sentence */
-#include <stdio.h>
-
+#include<stdio.h>
 /**
-* main - a function that uses printf to print a sentence
-* return : (0) void at the end of sentence
-*/
-
+ * main - prints a phrase
+ *
+ * Return: 0 at the end of the program
+ *
+ *
+ */
 int main(void)
 {
-printf("with proper grammar, but the outcome is a piece of art,\n");
 
-return (0);
+	printf("with proper grammar, but the outcome is a piece of art,\n");
+	return (0);
+
 }
