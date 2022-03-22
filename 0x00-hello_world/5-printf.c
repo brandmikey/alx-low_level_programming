@@ -1,10 +1,7 @@
 #include <stdio.h>
 /**
- * main - a function that uses printf to print a sentence
- *
- * return : (0) void at the end of sentence
- *
- *
+ * main - prints a phrase
+ * Return: 0 at the end of the program
  */
 int main(void)
 {
