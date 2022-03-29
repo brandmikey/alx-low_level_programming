@@ -4,8 +4,9 @@
 /* more headers goes there */
 
 /**
- *main - determines value of random variables 
- **and says if it is positive, negative or zero
+ *main - determines value of random variables
+ *and says if it is positive, negative or zero
+ *return: returns zero at the end of program
  */
 int main(void)
 {
