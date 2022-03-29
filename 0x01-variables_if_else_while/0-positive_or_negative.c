@@ -4,8 +4,8 @@
 /* more headers goes there */
 
 /**
- *main: prints files variable n
- *and says if it is positive, negative or zero
+ *main - determines value of random variables 
+ **and says if it is positive, negative or zero
  */
 int main(void)
 {
