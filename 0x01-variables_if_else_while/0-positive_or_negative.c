@@ -5,7 +5,7 @@
 
 /**
  *main: prints files variable n
- **and says if it is positive, negative or zero
+ *and says if it is positive, negative or zero
  */
 int main(void)
 {
